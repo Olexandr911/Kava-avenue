@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Karla');
+
+:root {
+    font-family: 'Karla', sans-serif;
+}
+
+body {
+    max-width: 1000px;
+    margin: auto;
+}
+header {
+     background-image: url("../img/coffeebeans.png");
+    background-size: cover;
+}
+p {
+    text-align: center;
+}
+
+div.kavaavenue{
+font-size: 50px;
+color:white;
+}
+  
+nav a {
+     display: inline-block;
+  background: #333;
+  border-radius: 5px;
+  color: white;
+  padding: 3px 8px;
+}
+ 
+ 
+form p {
+    text-align: left;
+}
